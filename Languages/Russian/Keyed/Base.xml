@@ -30,7 +30,7 @@
   <RimHUD.Dialog_Config.Tab.Content>Содержимое</RimHUD.Dialog_Config.Tab.Content>
   <RimHUD.Dialog_Config.Tab.Content.Preset>Выбрать шаблон</RimHUD.Dialog_Config.Tab.Content.Preset>
   <RimHUD.Dialog_Config.Tab.Content.Preset.Default>По умолчанию</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
-  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Layouts reset to default.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
+  <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Установлен шаблон по умолчанию.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
   <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>Шаблон '{0}' загружен.</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
   <RimHUD.Dialog_Config.Tab.Content.Mode>{0} режим</RimHUD.Dialog_Config.Tab.Content.Mode>
   <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Закреплённый</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
