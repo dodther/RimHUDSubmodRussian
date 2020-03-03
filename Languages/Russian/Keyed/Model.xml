@@ -60,7 +60,7 @@
   <RimHUD.Model.Bio.Wildness>Дикость: {0}</RimHUD.Model.Bio.Wildness>
   <RimHUD.Model.Bio.Petness>Одомашненность: {0}</RimHUD.Model.Bio.Petness>
 
-  <RimHUD.Model.Selector.OutfitFormat>Снаряжение: {0}</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.OutfitFormat>Гардероб: {0}</RimHUD.Model.Selector.OutfitFormat>
   <RimHUD.Model.Selector.FoodFormat>Диета: {0}</RimHUD.Model.Selector.FoodFormat>
   <RimHUD.Model.Selector.TimetableFormat>График: {0}</RimHUD.Model.Selector.TimetableFormat>
   <RimHUD.Model.Selector.SetTimeAssignment>Установите {0} час на {1}</RimHUD.Model.Selector.SetTimeAssignment>
@@ -79,7 +79,7 @@
   <RimHUD.Model.Component.Blank>Пустой</RimHUD.Model.Component.Blank>
   <RimHUD.Model.Component.Separator>Линия разделитель</RimHUD.Model.Component.Separator>
   <RimHUD.Model.Component.NameHeader>Имя как заголовок</RimHUD.Model.Component.NameHeader>
-  <RimHUD.Model.Component.Outfit>Выбор снаряжения</RimHUD.Model.Component.Outfit>
+  <RimHUD.Model.Component.Outfit>Выбор гардероба</RimHUD.Model.Component.Outfit>
   <RimHUD.Model.Component.Food>Выбор диеты</RimHUD.Model.Component.Food>
   <RimHUD.Model.Component.Rules>Rules selector (Requires Pawn Rules)</RimHUD.Model.Component.Rules>
   <RimHUD.Model.Component.Timetable>Выбор графика</RimHUD.Model.Component.Timetable>
