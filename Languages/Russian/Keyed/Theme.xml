@@ -9,6 +9,10 @@
   <RimHUD.Theme.HudAnchors>Вверху слева|Центр сверху|Вверху справа|Центр слева|Центр|Центр справа|Внизу слева|Центр снизу|Внизу справа</RimHUD.Theme.HudAnchors>
   <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
   <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+  
+  <RimHUD.Theme.RefreshRate>Интервал обновления</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>Время обновления HUD. В случае падения частоты кадров установите большее значение.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>мс</RimHUD.Theme.RefreshRateUnits>
 
   <RimHUD.Theme.HudDimensions>Размеры HUD</RimHUD.Theme.HudDimensions>
   <RimHUD.Theme.HudWidth>Ширина</RimHUD.Theme.HudWidth>

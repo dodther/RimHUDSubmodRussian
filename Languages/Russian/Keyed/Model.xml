@@ -127,7 +127,7 @@
   <RimHUD.Model.Component.Carrying>Переносит</RimHUD.Model.Component.Carrying>
   <RimHUD.Model.Component.CompInfo>Дополнительное инфо</RimHUD.Model.Component.CompInfo>
 
-  <RimHUD.Model.Component.Container.Filled>Filled</RimHUD.Model.Component.Container.Filled>
+  <RimHUD.Model.Component.Container.Filled>заполняющая</RimHUD.Model.Component.Container.Filled>
 
   <RimHUD.Model.Target.PlayerHumanlike>Человекоподобные игрока</RimHUD.Model.Target.PlayerHumanlike>
   <RimHUD.Model.Target.OtherHumanlike>Другие человекоподобные</RimHUD.Model.Target.OtherHumanlike>
