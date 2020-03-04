@@ -7,7 +7,7 @@
 
   <RimHUD.Integration.Bubbles.Activated>Активированны</RimHUD.Integration.Bubbles.Activated>
   <RimHUD.Integration.Bubbles.DoNonPlayer>Показывать для чужих фракций</RimHUD.Integration.Bubbles.DoNonPlayer>
-  <RimHUD.Integration.Bubbles.DoAnimals>оказывать для взаимодействий с животными</RimHUD.Integration.Bubbles.DoAnimals>
+  <RimHUD.Integration.Bubbles.DoAnimals>Показывать для взаимодействий с животными</RimHUD.Integration.Bubbles.DoAnimals>
 
   <RimHUD.Integration.Bubbles.MinScale>Минимальный отображаемый масштаб</RimHUD.Integration.Bubbles.MinScale>
   <RimHUD.Integration.Bubbles.ScaleStart>Шкала начального масштаба</RimHUD.Integration.Bubbles.ScaleStart>
