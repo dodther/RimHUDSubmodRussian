@@ -35,7 +35,7 @@
   <RimHUD.Model.Health.TendPlural>{0} состояниям требуется уход</RimHUD.Model.Health.TendPlural>
   <RimHUD.Model.Health.Threat>Имеет угрозу для жизни {0}</RimHUD.Model.Health.Threat>
   <RimHUD.Model.Health.ThreatPlural>Имеет {0} состояний угрожающих жизни</RimHUD.Model.Health.ThreatPlural>
-  <RimHUD.Model.Health.Affected>Страдает от {0}}</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.Affected>Страдает от {0}</RimHUD.Model.Health.Affected>
   <RimHUD.Model.Health.AffectedPlural>Страдает от {0} и {1} других состояний</RimHUD.Model.Health.AffectedPlural>
   <RimHUD.Model.Health.Stable>Здоровье стабильно</RimHUD.Model.Health.Stable>
 

@@ -2,9 +2,14 @@
 <ModMetaData>
 	<name>RimHUD Русский</name>
 	<author>Дозер</author>
-	<targetVersion>0.1</targetVersion>
+	<packageId>dodther.RimHUDSubmodRussian</packageId>
+	<url>https://github.com/dodther/RimHUDSubmodRussian</url>
+    <supportedVersions>
+     <li>1.0</li>
+     <li>1.1</li>
+  </supportedVersions>
 	<description>
-		RimHUD mod by Jaxe
+		Русский язык для RimHUD mod by Jaxe
   
 		Мод добавляет русский язык для мода RimHUD.
 		Сделан для RimHUD v1.6.4
