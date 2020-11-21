@@ -7,11 +7,18 @@
     <supportedVersions>
      <li>1.0</li>
      <li>1.1</li>
+     <li>1.2</li>
   </supportedVersions>
 	<description>
 		Русский язык для RimHUD mod by Jaxe
   
 		Мод добавляет русский язык для мода RimHUD.
 		Сделан для RimHUD v1.6.4
+		Проверен на RimHUD v1.6.7. Языковые фалы без изменений.
+		Добавлена поддержка версии игры 1.2.
+
+		
+		Ссылка на мод: 
+		https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027
 	</description>
 </ModMetaData>
